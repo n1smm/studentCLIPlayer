@@ -1,6 +1,15 @@
 # studentCLIPlayer
 very simple but very 【﻿ａｅｓｔｈｅｔｉｃｈ】 Radio Študent CLI player
 
+## preview
+#### Full Hyprland integration
+song display was not visible in this pic, but it is there
+![preview](./readme_imgs/hyprland_integration.jpg)
+
+#### log file
+![preview](./readme_imgs/log_file.jpg)
+
+
 ## explanation
 This is a very simple CLI player for Radio Študent. It is basically just a shell script that use  `mpv` to play the stream, `radio student API` to display songs and optionally `cava`. It is very simple and very basic, but it is also very 【﻿ａｅｓｔｈｅｔｉｃｈ】.
 
