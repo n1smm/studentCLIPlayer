@@ -42,3 +42,6 @@ windowrulev2 = move 1300 60,class:(visualizer),title:(visualizer)
 ```
 I am guessing there is a better way to do this, but this is the way I did it with my current knowledge of hyprland. 
 **you should change the `move` and `size` values to fit your screen resolution and your preferences.**
+
+## future development
+I was thinking to add play and pause options and maybe the possibility to run in background or at least make the window smaller.
