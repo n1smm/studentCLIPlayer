@@ -1,3 +1,4 @@
+there is a problem with the display of artists/songs being played since the API changed and am waiting if i get the new one.
 # studentCLIPlayer
 very simple but very 【﻿ａｅｓｔｈｅｔｉｃｈ】 Radio Študent CLI player
 
